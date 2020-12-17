@@ -1,0 +1,12 @@
+module.exports={
+    isHeadless:false,
+    slowMo:0,
+    isDevtools:false,
+    launchTimeout:10000,
+    waitingTimeout:10000,
+    navigationTimeout:100000,
+    isCacheEnabled:false,
+    viewportWidth:1320,
+    viewportHeight:500,
+    url:"https://prefeitura.pbh.gov.br/saude/licitacao/pregao-eletronico-151-2020"
+}
